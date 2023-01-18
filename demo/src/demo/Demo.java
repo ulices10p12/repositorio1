@@ -10,11 +10,20 @@ public class Demo {
 
     
     
-/*
-inicio
-desarrollo
-conclusion
-
+    /*
+Inicio --> comando git
+desarollo
+-git diff
+  - git merge --abort
+    
+   conclusiones
+   --------------
+   git log --all -graph
+>>>>>>> rama2
 */
+
+/*
+    hola mundo
+    */    
     
 }
