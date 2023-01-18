@@ -10,11 +10,11 @@ public class Demo {
 
     
     
-    /*
-titulo = git 
-cuerpo :
-git ,merge --no--ff
-   git diff
+/*
+inicio
+desarrollo
+conclusion
+
 */
     
 }
