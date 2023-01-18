@@ -11,10 +11,18 @@ public class Demo {
     
     
     /*
-titulo = git 
-cuerpo :
-git ,merge --no--ff
-   git diff
+Inicio --> comando git
+desarollo
+-git diff
+  - git merge --abort
+    
+   conclusiones
+   --------------
+   git log --all -graph
 */
+
+/*
+    hola mundo
+    */    
     
 }
